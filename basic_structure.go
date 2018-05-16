@@ -3,7 +3,7 @@
 // 当前程序的包名
 package main
 
-// 导入其他包
+// 导入其他包 使用 . 符号代表 Println 时不需要输入包名
 import . "fmt"
 
 // 常量定义
